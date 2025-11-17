@@ -21,10 +21,6 @@ abstract: >
 # Lock this page’s URL (optional but recommended)
 slug: "plan-cuadrante"
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
 links:
   - type: pdf
     url: "uploads/Plan Cuadrante.pdf"
