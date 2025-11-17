@@ -3,7 +3,7 @@
 title: Daniel Pérez Parra
 
 # Full name (for SEO)
-first_name: Andrea
+first_name: Daniel
 last_name: Rouchon
 
 # Is this the primary user of the site?
