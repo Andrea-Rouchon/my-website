@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Pérez Parra
+title: Daniel Pérez-Parra
 
 # Full name (for SEO)
 first_name: Daniel
@@ -29,7 +29,7 @@ profiles:
     url: 'mailto:daniel.perezp@outlook.es'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/AndreaRouchon
+    url: https://github.com/dperezparra
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/andrearouchon/
 
