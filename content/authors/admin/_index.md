@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andrea Rouchon
+title: Daniel Pérez Parra
 
 # Full name (for SEO)
 first_name: Andrea
