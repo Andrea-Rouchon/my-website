@@ -4,7 +4,7 @@ title: Daniel Pérez Parra
 
 # Full name (for SEO)
 first_name: Daniel
-last_name: Rouchon
+last_name: Pérez-Parra
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,7 +26,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:andrea.rouchon2@univ-eiffel.fr'
+    url: 'mailto:daniel.perezp@outlook.es'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/AndreaRouchon
