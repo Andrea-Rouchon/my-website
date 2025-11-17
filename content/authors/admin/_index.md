@@ -94,13 +94,17 @@ skills:
         icon: code-bracket
       - name: R
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
   - name: ''
     items:
       - name: LaTeX
         description: ''
         percent: 100
+        icon: chart-bar
+      - name: Github
+        description: ''
+        percent: 80
         icon: chart-bar
 
 languages:
