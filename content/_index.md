@@ -18,7 +18,6 @@ sections:
         My thesis examines the impact of public policies on harmful traditional norms and gender-based violence in West Africa. Using geospatial data and impact evaluation techniques, I analyse which policies are effective in eradicating female genital cutting, child marriage, and intimate partner violence.
         
         I am currently working as a Short-Term Consultant for the Africa Gender Innovation Lab at the World Bank. Previously, I worked as a Research Assistant for Noam Angrist and Jorge García-Hombrados, and as a Research Consultant for What Works Hub for Global Education at the Blavatnik School of Government, University of Oxford.
-        
       button:
         text: Download my CV
         url: uploads/CV_EN-28.pdf
