@@ -12,7 +12,7 @@ publishDate: "2025-09-01T00:00:00Z"
 
 # Keep this as a working paper (or change to article-journal later)
 publication_types: ["working-paper"]
-publication: " R&R in The Economic Journal"
+publication: ""
 publication_short: ""
 
 abstract: >
