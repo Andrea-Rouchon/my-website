@@ -97,7 +97,7 @@ skills:
         percent: 100
         icon: chart-bar
   - name: ''
-    item:
+    items:
       - name: LaTeX
         description: ''
         percent: 100
