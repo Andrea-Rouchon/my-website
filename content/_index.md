@@ -24,6 +24,10 @@ sections:
       button:
         text: Download my CV
         url: uploads/CV_EN-28.pdf
+      headings:
+        about: ''
+        education: ''
+        interests: ''
 
       # Show a call-to-action button under your biography? (optional)
     design:
@@ -39,8 +43,4 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded   
-      headings:
-        about: ''
-        education: ''
-        interests: ''
 ---
