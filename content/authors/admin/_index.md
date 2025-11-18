@@ -16,16 +16,12 @@ highlight_name: true
 role: PhD Candidate in Economics
 
 # Organizations/Affiliations to display in Biography block
-sections:
-  - block: buttons
-    content:
-      buttons:
-        - text: "Université Gustave Eiffel"
-          url: "https://www.univ-gustave-eiffel.fr/"
-          style: "primary"
-        - text: "Érudite"
-          url: "https://erudite.univ-paris-est.fr/"
-          style: "primary"
+organizations:
+  buttons:
+    - name: Université Gustave Eiffel
+      url: https://www.univ-gustave-eiffel.fr/
+    - name: Érudite
+      url: https://erudite.univ-paris-est.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
