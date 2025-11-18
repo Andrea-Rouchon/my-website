@@ -24,9 +24,8 @@ sections:
       button:
         text: Download my CV
         url: uploads/CV_EN-28.pdf
+        
       headings:
-        about: ''
-        education: ''
         interests: ''
 
       # Show a call-to-action button under your biography? (optional)
