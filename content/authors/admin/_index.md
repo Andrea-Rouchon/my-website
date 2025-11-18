@@ -42,15 +42,17 @@ interests:
 
 education:
   - area: PhD - Economics
-    institution: Érudite - Université Gustave Eiffel
+    institution: Érudite - Université Gustave Eiffel (France)
     icon: ""
     date_start: 2022-09-01
     date_end: 2025-10-01
     summary: |
       - Thesis: Essays on the Persistence of Harmful Cultural Practices in West Africa 
       - Supervisors: Marine de Talancé • Catherine Bros
+      - Visiting PhD Student, supervised by Stefan Dercon (CSAE, University of Oxford)
+      - Dissertation committee: Stefan Dercon (University of Oxford), Sylvie Lambert (Paris School of Economics), Silem Gulesci (Trinity College Dublin) and Paola Villar (Universit´e Paris 1)
   - area: MSc - Development Economics and International Project Management
-    institution: Université Gustave Eiffel
+    institution: Université Gustave Eiffel (France)
     icon: ""
     date_start: 2020-09-01
     date_end: 2022-05-31
@@ -58,7 +60,7 @@ education:
       - Track: Impact Evaluation
       - Thesis: Child Marriage, Law Reforms and Female Education: Evidence from Ethiopia
   - area: BSc - Economics and International Business
-    institution: Universidad de Alcalá
+    institution: Universidad de Alcalá (Spain)
     icon: ""
     date_start: 2016-09-01
     date_end: 2020-05-31
