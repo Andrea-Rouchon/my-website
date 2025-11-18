@@ -10,7 +10,7 @@ sections:
       # This pulls from your publication section:
       filters:
         folders:
-          - fieldwork
+          - missions
       count: 30
     design:
       view: article-grid
