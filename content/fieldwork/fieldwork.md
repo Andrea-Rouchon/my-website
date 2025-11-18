@@ -1,5 +1,6 @@
 ---
-title: 'Qualitative Interviews on Pre-Marital Sex and Female Genital Mutilation in rural Nigeria'
+title: 'Nigeria'
+summary: 'Qualitative surveys on sexual behavior and female genital mutilation in Calabar'
 date: 2024-06-01
 
 design:
