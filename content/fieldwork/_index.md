@@ -11,7 +11,7 @@ sections:
       filters:
         folders:
           - missions
-      count: 30
+      count: 20
     design:
       view: article-grid
       fill_image: true
