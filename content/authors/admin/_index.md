@@ -17,10 +17,20 @@ role: PhD Candidate in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Université Gustave Eiffel
+  - name: |
+      <div style="background:#1a73e8; color:white; padding:12px; border-radius:10px; 
+                  box-shadow:0 2px 6px rgba(0,0,0,0.15); text-align:center;">
+        Université Gustave Eiffel
+      </div>
     url: https://www.univ-gustave-eiffel.fr/
-  - name: Érudite
+
+  - name: |
+      <div style="background:#e65100; color:white; padding:12px; border-radius:10px; 
+                  box-shadow:0 2px 6px rgba(0,0,0,0.15); text-align:center;">
+        Érudite
+      </div>
     url: https://erudite.univ-paris-est.fr/
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
