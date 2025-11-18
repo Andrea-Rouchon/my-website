@@ -14,6 +14,7 @@ sections:
       count: 20
     design:
       view: card
-      style: grid
-      columns: 2
+      columns: "2"
+      spacing: normal
+      style: "grid"
 ---
