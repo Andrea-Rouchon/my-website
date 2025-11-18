@@ -82,7 +82,7 @@ work:
     date_start: 2026-01-01
     date_end: 2026-05-01
     summary: |
-      - Course: Microeconomics I
+      - Course: Microeconomics II
       - Level: First-year undergraduate students
 
 # Skills
