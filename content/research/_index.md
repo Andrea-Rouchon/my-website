@@ -21,11 +21,11 @@ sections:
       show_read_more: true
   - block: collection
     content:
-      title: Ongoing Work
+      title: Work in Progress
       text: ''
       filters:
         folders:
-          - publication
+          - Ongoing work
         exclude_featured: false
     design:
       view: citation

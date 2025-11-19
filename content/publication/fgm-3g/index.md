@@ -2,8 +2,8 @@
 title: > 
   Shifting the Value of Norms: Fast Internet, Premarital Sex, and the Erosion of Female Genital Mutilation
 authors:
-  - admin
   - Jorge García-Hombrados
+  - admin
   - Ricardo Ciacci
 author_notes:
   - ""
@@ -21,6 +21,10 @@ abstract: >
   
 # Lock this page’s URL (optional but recommended)
 slug: "fgm-3g"
+
+tags:
+  - Female Genital Mutilation
+  - Pre-marital sex
 
 links:
   - type: pdf

@@ -4,9 +4,9 @@ title: >
 summary: > 
   * R&R at The Economic Journal
 authors:
-  - admin
   - Andrés Barrios-Fernández
   - Jorge García-Hombrados
+  - admin
 author_notes:
   - ""
   - ""
@@ -27,6 +27,10 @@ slug: "plan-cuadrante"
 links:
   - type: pdf
     url: "uploads/Plan Cuadrante.pdf"
+
+tags:
+  - Police Effectiveness
+  - Geographic Specialization
 
 image:
   filename: "featured.png"
