@@ -19,4 +19,12 @@ sections:
       show_date: false
       show_read_time: true
       show_read_more: true
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ''
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
 ---
