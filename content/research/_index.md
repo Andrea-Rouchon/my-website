@@ -21,7 +21,7 @@ sections:
       show_read_more: true
   - block: collection
     content:
-      title: Work in Progress
+      title: "Work in Progress"
       text: ''
       filters:
         folders:
