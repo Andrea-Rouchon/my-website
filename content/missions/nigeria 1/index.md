@@ -12,6 +12,4 @@ tags:
   - Pre-marital sex
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-
 <!--more-->
