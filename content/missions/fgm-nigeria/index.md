@@ -4,7 +4,7 @@ date: 2023-10-26
 
 image:
   filename: "featured.png"
-  focal_point: "top"
+  focal_point: "middle"
   preview_only: true
   
 tags:
