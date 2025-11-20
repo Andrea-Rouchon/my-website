@@ -73,7 +73,7 @@ work:
     date_start: 2026-01-01
     date_end: 2026-05-31
     summary: |
-      - Course: Impact Evaluation Methods
+      - Course: Impact Evaluation Methods (in English)
       - Level: Second-year master students
   - position: Teaching Assistant
     company_name: Université Gustave Eiffel
@@ -82,7 +82,7 @@ work:
     date_start: 2026-01-01
     date_end: 2026-05-01
     summary: |
-      - Course: Microeconomics II
+      - Course: Microeconomics II (in French)
       - Level: First-year undergraduate students
 
 # Skills
