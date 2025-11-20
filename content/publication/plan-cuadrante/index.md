@@ -5,7 +5,7 @@ summary: >
   * R&R at The Economic Journal
 authors:
   - Andrés Barrios-Fernández
-  - Jorge García-Hombrados
+  - Jorge García-Hombrados,
   - admin
 author_notes:
   - ""
